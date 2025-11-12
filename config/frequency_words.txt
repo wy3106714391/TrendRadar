@@ -1,127 +1,79 @@
-胖东来
-于东来
+AI智能体
+
+AI Agent
+
+企业级AI平台
+知乎/LinkedIn
+Enterprise AI Platform
+
+AI落地案例
+微博/小红书/微信
+AI Implementation Case Studies
+
+RAG实战
+知乎/技术社区
+RAG Implementation
+
+大模型企业应用
+全平台
+Large Language Model (LLM) for Business
+
+通义灵犀
+微博/微信
+Tongyi Lingxi (Alibaba)
+
+智元机器人
+知乎/小红书
+Agility Robotics (Chinese context)
 
 DeepSeek
-梁文锋
+Twitter/LinkedIn
+DeepSeek AI
 
-华为
-鸿蒙
-HarmonyOS
-任正非
+生成式AI落地
+全平台
+Generative AI Implementation
 
-比亚迪
-王传福
+因果推断AI
+知乎/学术平台
+Causal AI
 
-大疆
-DJI
+AI代理开发
+GitHub/Twitter
+AI Agent Development
 
-宇树
-王兴兴
+企业AI解决方案
+LinkedIn/微信
+Enterprise AI Solutions
 
-智元
-灵犀
-稚晖君
-彭志辉
+英伟达AI
+全平台
+NVIDIA AI
 
-黑神话
-冯骥
+稚晖君项目
+B站/知乎
+Peng Zhihui Projects
 
-影之刃零
-梁其伟
+OpenAI企业版
+Twitter/LinkedIn
+OpenAI Enterprise
 
-哪吒
-饺子
-杨宇
-!车
-!餐
+新质生产力 AI
+微博/政策平台
+New Quality Productive Forces + AI
 
-三体
-流浪地球
-刘慈欣
-郭帆
+SAP AI案例
+LinkedIn/专业论坛
+SAP AI Case Studies
 
-申奥
+FineBI AI
+微信/知乎
+FineBI + AI
 
-京东
-刘强东
+Qwen企业版
+阿里生态/知乎
+Qwen Enterprise
 
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
-
-国产
-中国
-
-美国
-日本
-韩国
-
-芯片
-光刻机
-
-科技
-
-核能
-
-水电站
-雅鲁藏布江
-
-新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
-
-
-ai 
-agent
-RAG
-因果推断
-大模型
-企业级项目落地
-sap
-spark
-finebi
-
-QWEN
-蚂蚁集团
+自动驾驶AI
+知乎/行业媒体
+Autonomous Driving AI
