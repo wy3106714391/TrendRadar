@@ -1,79 +1,45 @@
-AI智能体
-
-AI Agent
-
-企业级AI平台
-知乎/LinkedIn
-Enterprise AI Platform
-
-AI落地案例
-微博/小红书/微信
-AI Implementation Case Studies
-
-RAG实战
-知乎/技术社区
-RAG Implementation
-
-大模型企业应用
-全平台
-Large Language Model (LLM) for Business
-
-通义灵犀
-微博/微信
-Tongyi Lingxi (Alibaba)
-
-智元机器人
-知乎/小红书
-Agility Robotics (Chinese context)
-
-DeepSeek
-Twitter/LinkedIn
-DeepSeek AI
-
-生成式AI落地
-全平台
-Generative AI Implementation
-
-因果推断AI
-知乎/学术平台
-Causal AI
-
-AI代理开发
-GitHub/Twitter
-AI Agent Development
-
-企业AI解决方案
-LinkedIn/微信
-Enterprise AI Solutions
-
-英伟达AI
-全平台
-NVIDIA AI
-
-稚晖君项目
-B站/知乎
-Peng Zhihui Projects
-
-OpenAI企业版
-Twitter/LinkedIn
-OpenAI Enterprise
-
-新质生产力 AI
-微博/政策平台
-New Quality Productive Forces + AI
-
-SAP AI案例
-LinkedIn/专业论坛
-SAP AI Case Studies
-
-FineBI AI
-微信/知乎
-FineBI + AI
-
-Qwen企业版
-阿里生态/知乎
-Qwen Enterprise
-
-自动驾驶AI
-知乎/行业媒体
-Autonomous Driving AI
+大模型  
+多模态  
+推理模型  
+小模型  
+开源模型  
+智能体  
+具身智能  
+神经符号系统  
+生成式 AI  
+RAG  
+MoE  
+模型蒸馏  
+边缘 AI  
+Llama  
+Qwen  
+GLM  
+Phi  
+Mixtral  
+Ollama  
+vLLM  
+LangChain  
+LlamaIndex  
+Transformer  
+注意力机制  
+微调（Fine-tuning）  
+提示工程（Prompt Engineering）  
+上下文学习（In-context Learning）  
+指令微调（Instruction Tuning）  
+强化学习 from Human Feedback（RLHF）  
+量化（Quantization）  
+LoRA  
+知识蒸馏  
+自监督学习  
+对比学习  
+扩散模型（Diffusion Models）  
+VAE  
+GAN  
+AutoML  
+模型评估（Evaluation Metrics）  
+幻觉（Hallucination）  
+对齐（Alignment）  
+可解释 AI（XAI）  
+联邦学习  
+隐私计算  
+AI 安全
