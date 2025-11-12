@@ -43,3 +43,112 @@ AutoML
 联邦学习  
 隐私计算  
 AI 安全
+
+
+
+大模型  
+多模态  
+推理模型  
+小模型  
+开源模型  
+智能体  
+具身智能  
+神经符号系统  
+生成式 AI  
+RAG  
+MoE  
+模型蒸馏  
+边缘 AI  
+Llama  
+Qwen  
+GLM  
+Phi  
+Mixtral  
+Ollama  
+vLLM  
+LangChain  
+LlamaIndex  
+Transformer  
+注意力机制  
+微调（Fine-tuning）  
+提示工程（Prompt Engineering）  
+上下文学习（In-context Learning）  
+指令微调（Instruction Tuning）  
+强化学习 from Human Feedback（RLHF）  
+量化（Quantization）  
+LoRA  
+知识蒸馏  
+自监督学习  
+对比学习  
+扩散模型（Diffusion Models）  
+VAE  
+GAN  
+AutoML  
+模型评估（Evaluation Metrics）  
+幻觉（Hallucination）  
+对齐（Alignment）  
+可解释 AI（XAI）  
+联邦学习  
+隐私计算  
+AI 安全  
+
+OpenAI  
+Anthropic  
+Google DeepMind  
+Meta AI  
+Microsoft AI  
+Apple AI  
+Amazon AI  
+NVIDIA  
+Intel AI  
+IBM Watson  
+Baidu (文心一言)  
+Alibaba (通义千问)  
+Tencent (混元)  
+ByteDance (豆包)  
+Kuaishou (可图)  
+Moonshot AI (月之暗面)  
+Zhipu AI (智谱)  
+01.ai  
+Baichuan AI (百川智能)  
+Doubao (字节)  
+Inflection AI  
+xAI (Elon Musk)  
+Mistral AI  
+Stability AI  
+Hugging Face  
+Cohere  
+Adept  
+Perplexity AI  
+Runway ML  
+Midjourney  
+ElevenLabs  
+Hugging Face  
+Databricks  
+Snowflake Cortex  
+Salesforce Einstein  
+Adobe Sensei  
+ServiceNow Now Assist  
+Palantir AIP  
+C3.ai  
+UiPath AI  
+Scale AI  
+Labelbox  
+Weights & Biases  
+Pinecone  
+Weaviate  
+Replicate  
+Modal  
+Together AI  
+Anyscale  
+Fireworks AI  
+Groq  
+SambaNova  
+Cerebras  
+Graphcore  
+Tenstorrent  
+LightOn  
+Aleph Alpha  
+MosaicML (now part of Databricks)  
+Clarifai  
+Reka AI
